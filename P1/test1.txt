@@ -1,2 +1,4 @@
 Demo model
-Test2
+Test2 
+Clarify the data 
+Intro of git
